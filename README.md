@@ -8,7 +8,7 @@ Berikut anggota yang berkontribusi dalam proyek capstone ini
 | M002D4KY2640   | Wilson Gregory  | Machine Learning  |
 | C214D4KY0414   | Daud Hidayat Ramadhan  | Cloud Computing  |
 | C419D4KY0087   | Ari Dwi Lesmana   | Cloud Computing  |
-| C583D4KY0510   | Joan Jalu Pangestu  | Cloud Computing  |
+| C583D4KY0510   | Muhamad Faisal  | Cloud Computing  |
 
 # Company-Track
 Untuk Dataset mohon maaf tidak diupload disini karena bersifat confidential.
